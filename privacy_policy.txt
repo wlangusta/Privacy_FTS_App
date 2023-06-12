@@ -1,0 +1,66 @@
+﻿﻿O Aplikacji: 
+  Aplikacja umożliwia wyszukiwanie kodów błędów dystrybutorów paliwowych Gilbarco oraz Wayne Dresser,
+  dostarczając informacji diagnostycznych.
+  Oferuje również funkcję stopera, który obliczy szybkość wydawania dystrybutora,
+  dla pracowników Firmy FTS oddział Olsztyn składanie zamówień na podzespoły i części zamienne oraz
+  moduł przeglądu samochodu służbowego, w przyszłości planowane są dodatkowe funkcjonalności, takie jak plan dnia.
+
+Wersja:
+  Wersja: 1.0.0
+
+Autor/Twórca:
+  Wojciech Lango
+
+Kontakt:
+  wlangusta@gmail.com
+
+Wsparcie techniczne:
+  Wszelkie problemy w działaniu aplikacji proszę zgłaszać drogą mailową na adres
+  wlangusta@gmail.com
+
+Licencja:
+  Aplikacja korzysta z licencji wolnego oprogramowania,
+  która zapewnia swobodę używania, modyfikowania i rozpowszechniania.
+
+Zgoda użytkownika:
+  Użytkownik akceptuje warunki korzystania z aplikacji i zobowiązuje się do przestrzegania określonych zasad.
+  Użytkownik musi posiadać odpowiednie uprawnienia do korzystania z wszystkich modułów aplikacji.
+
+Prywatność:
+  W tej wersji aplikacja nie zbiera żadnych danych osobowych użytkowników, poza zalogowanymi
+  użytkownikami Firmy FTS.
+  Szanuje Twoją prywatność i dbam o bezpieczeństwo Twoich informacji.
+  Zalogowani Użytkownicy na potrzeby składania zamówień udostępniają swój adres e-mail, oraz mogą dodać
+  załącznik w postaci zdjęcia, wszystkie te informacje są dostepne wewnątrz Firmy, której sa pracownikami.
+  Przechowywane informacje zalogowanych użytkowników Firmy FTS: adres e-mail, załącznik, login i hasło.
+  Wykorzystywane są dobrowolnie przez użytkownika na potrzeby składania zamówień. Dane są chronione i zaszyfrowane.
+  Istnieje możliwość prośby użytkownia o usunięcie jego danych z bazy danych aplikacji, proszę wtedy kontakt
+  na adres: wlangusta@gmail.com
+
+Informacje prawne:
+ Oferuje zgodność z zasadami korzystania z aplikacji.
+ Przed korzystaniem zapoznaj się z warunkami korzystania, które zawierają informacje dotyczące
+ ograniczeń odpowiedzialności i warunków użytkowania.
+
+Historia aktualizacji:
+ Przedstawiam krótką historię zmian w aplikacji, abyś mógł śledzić
+ dodawane funkcje i udoskonalenia w różnych wersjach.
+ Wersja 1.0.0 - dostępne moduły:
+  - Kody błędów Gilbarco SK700-2
+  - Kody błedów Wayne Dresse
+  - Wydajność dystrybutora
+dodatkowo dla zalogowanych:
+  - Uruchomiono moduł logowania i szyfrowania danych
+  - Przegląd samochodu służbowego
+  - Zamówienia podzespołów i części zamiennych
+
+Oświadczenie o poufności:
+  Zapewniam, że dbam o bezpieczeństwo Twoich danych i respektuje Twoją prywatność.
+  Szczegółowe informacje na temat praktyk dotyczących ochrony danych znajdują się w polityce prywatności.
+
+Oświadczenie o odpowiedzialności:
+  Niniejsza aplikacja jest udostępniana w stanie, w jakim się znajduje, bez żadnej gwarancji co do
+  jej działania, niezawodności lub zgodności z określonymi celami. Twórca aplikacji nie ponosi odpowiedzialności
+  za ewentualne awarie, błędy, utratę danych lub szkody wynikające z korzystania z aplikacji.
+  Użytkownik korzysta z aplikacji na własne ryzyko, a twórca aplikacji nie ponosi odpowiedzialności za
+  jakiekolwiek problemy związane z urządzeniem, oprogramowaniem lub innymi czynnikami zewnętrznymi.
